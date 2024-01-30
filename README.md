@@ -62,4 +62,5 @@ Effective strategy for LMaas: PaperList
 10. A survey for service selection approaches in dynamic environments. Lindelweyizizwe Manqele, Mqhele E. Dlodlo, Louis Coetzee, and George Sibiya. In IEEE AFRICON 2017, Cape Town, South Africa, September 18-20, 2017, 2017. [📄[pdf](https://ieeexplore.ieee.org/document/8095627)]
 ## Output Enhancement
 1. Pre-train, prompt, and predict: A systematic survey of prompting methods in natural language processing. Pengfei Liu, Weizhe Yuan, Jinlan Fu, Zhengbao Jiang, Hiroaki Hayashi, and Graham Neubig. ACM Comput. Surv., 2023.[📄[pdf](https://dl.acm.org/doi/pdf/10.1145/3560815)]
-2. Efficient online ML API selection for multi-label classification tasks. Lingjiao Chen, Matei Zaharia, and James Zou. In Proc. of ICML, 2022.[📄[pdf](https://arxiv.org/abs/2102.09127)] 
+2. Efficient online ML API selection for multi-label classification tasks. Lingjiao Chen, Matei Zaharia, and James Zou. In Proc. of ICML, 2022.[📄[pdf](https://arxiv.org/abs/2102.09127)]
+3. Large Language Model Alignment: A Survey. Shen, Tianhao, Renren Jin, Yufei Huang, Chuang Liu, Weilong Dong, Zishan Guo, Xinwei Wu, Yan Liu and Deyi Xiong. ArXiv abs/2309.15025, 2023.[📄[pdf]([https://arxiv.org/abs/2102.09127](https://arxiv.org/abs/2309.15025)https://arxiv.org/abs/2309.15025)]
