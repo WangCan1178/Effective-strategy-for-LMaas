@@ -8,7 +8,7 @@ We provide a comprehensive collation of the current progress related to the Effe
 ***
 
 <p align="center">
-    <a href = "./paperlist.md">PaperList</a> | <a href = "./arvix.md">Arxiv</a>  | <a href = "./readme.md">Readme</a>
+    <a href = "./paperlist.md">PaperList</a> | <a href = "./arvix.md">Arxiv</a>  | <a href = "./README.md">Readme</a>
 </p>
 ***
 
