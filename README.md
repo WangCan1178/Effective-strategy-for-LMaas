@@ -1,9 +1,16 @@
 # Effective-strategy-for-LMaas-PaperList
 Effective strategy for LMaas: PaperList
 
-我们对Effective strategy for LMaas问题目前相关的进展进行了全面的整理。本列表根据输入缩减、集成方案选择和答案引导对论文进行了分类，并会持续进行更新。
-- __新增论文！2023年1月24日：新增论文XXX__
-- 2023年1月23日：创建列表
+We provide a comprehensive collation of the current progress related to the Effective strategy for LMaas problem. This list is categorized into papers based on input reduction, integration scheme selection, and answer guidance, and will be continuously updated.
+- __ New paper! January 24, 2023: New paper XXX__
+- January 23, 2023: Create the list
+- 
+***
+
+<p align="center">
+    <a href = "./paperlist.md">PaperList</a> | <a href = "./arvix.md">Arxiv</a>  | <a href = "./readme.md">Readme</a>
+</p>
+***
 
 ## Input Abstract
 ### Sentence Reduction
