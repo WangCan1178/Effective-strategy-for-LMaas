@@ -57,7 +57,7 @@ Through the establishment of a taxonomy, we categorize existing methods into fou
 Then we formalize the problem of effective LLM services strategy construction, and propose a LLM services invocation framework. Each component in the framework can work independently or simultaneously to form effective strategy for LLM service invocation that are low-latency, high-performance, and cost-saving.
 
 <div align="center">
-  <img src="./res/cases.png" alt="Vision" width="80%" height="80%">
+  <img src="./res/case.png" alt="Vision" width="80%" height="80%">
 </div>
 <div align="center">
   Figure 3: A simple invocation strategy composed of existing methods, using Prompt Reducer in input abstract, Zep in semantic cache, FrugalGPT in solution design, and nothing in output enhancement.
