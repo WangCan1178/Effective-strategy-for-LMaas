@@ -5,7 +5,7 @@ We filtered the available model resources mentioned in A Survey on Effective Inv
 ## Update log
 
 - Price change! January 24, 2023: Revised official prices for models like M2M100 1.2B
-- January 23, 2023 list creation
+- January 24, 2023 list creation
 
   
 <p align="center">
