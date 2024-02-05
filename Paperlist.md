@@ -1,5 +1,4 @@
-# Effective-strategy-for-LMaas-PaperList
-Effective strategy for LMaas: PaperList
+# A Survey on Effective Invocation Methods of Massive LLM Services
 
 We provide a comprehensive collation of the current progress related to the Effective strategy for LMaas problem. This list is categorized into papers based on input abstract, semantic cache, solution design and output enhancement, and will be continuously updated.
 - __ New paper! January 24, 2023: New paper XXX__
