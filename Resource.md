@@ -1,11 +1,19 @@
 # Model organization
 
-我们对A Survey of Large Language Models[[链接]]()中提到的可用模型资源进行了筛选，并给出相应的统计数据报价。我们维护了一个paperlist，跟踪此主题的最新进展。此外，还将关心不同模型在不同数据集上回答的准确率，响应速度等多个参数，为服务提供方和使用方呈现指南，打造Lmaas良好商业环境，并随时更新。
+We filtered the available model resources mentioned in A Survey on Effective Invocation Methods of Massive LLM Services[[link]]() and quoted the corresponding statistics. In addition, it will also care about the accuracy of different models on different data sets, response speed and other multiple parameters, present guidelines for service providers and users, create a good business environment for Lmaas, and update at any time.
 
 ## Update log
 
-- __价格修改！2023年1月24日：重新修改M2M100 1.2B等模型的官网价格__
-- 2023年1月23日 列表创建
+- Price change! January 24, 2023: Revised official prices for models like M2M100 1.2B
+- January 23, 2023 list creation
+
+  
+<p align="center">
+    <a href = "./Paperlist.md">PaperList</a> | <a href = "./arvix.md">Arxiv</a>  | <a href = "./README.md">Readme</a>   | <a href = "./Resource.md">Resource</a>
+</p>
+
+***
+
 
 ## Model List
 
