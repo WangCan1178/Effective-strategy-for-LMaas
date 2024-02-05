@@ -1,4 +1,4 @@
-# Effective-strategy-for-LMaas-PaperList
+# A Survey on Effective Invocation Methods of Massive LLM Services
 
 
 <p align="center">
