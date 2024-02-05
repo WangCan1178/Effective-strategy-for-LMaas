@@ -1,7 +1,7 @@
 # Effective-strategy-for-LMaas-PaperList
 Effective strategy for LMaas: PaperList
 
-![./res/visions.pdf]()
+![](./res/visions.png)
 
 <p align="center">
     <a href = "./Paperlist.md">PaperList</a> | <a href = "./arvix.md">Arxiv</a>  | <a href = "./README.md">Readme</a>   | <a href = "./Resource.md">Resource</a>
