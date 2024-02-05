@@ -53,6 +53,19 @@ For example, here we filter out the "I attend C's family party..." prompt that i
 
 After invocation, **output enhancement** focuses on the information returned to the user. The output $\tilde{a}$ is adjusted to suit different targets and returned in a suitable form. In addition, the input and output of this invocation are stored in the semantic cache for future invocations.
 
+Through the establishment of a taxonomy, we categorize existing methods into four categories: input abstract, semantic cache, solution design, and output enhancement. 
+Then we formalize the problem of effective LLM services strategy construction, and propose a LLM services invocation framework. Each component in the framework can work independently or simultaneously to form effective strategy for LLM service invocation that are low-latency, high-performance, and cost-saving.
+
+<div align="center">
+  <img src="./res/cases.png" alt="Vision" width="80%" height="80%">
+</div>
+<div align="center">
+  Figure 3: A simple invocation strategy composed of existing methods, using Prompt Reducer in input abstract, Zep in semantic cache, FrugalGPT in solution design, and nothing in output enhancement.
+</div>
+
+<br/>
+
+Existing methods tend to focus on only one component of the framework, and we can use them as plugins. A case is shown in Figure 3, a simple invocation strategy constructed from three existing methods. The development prospects of this field are promising. We look forward to future research further advancing the field, providing users with low-latency, high-performance, and cost-effective LLM services solution, and promoting the healthy development of the LMaaS ecosystem.
 
 
 
