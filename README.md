@@ -1,7 +1,7 @@
 # A Survey on Effective Invocation Methods of Massive LLM Services
 
 <p align="center">
-    <a href = "./Paperlist.md">PaperList</a> | <a href = "https://arxiv.org/pdf/2402.03408.pdf">Arxiv</a>  | <a href = "./README.md">Readme</a>   | <a href = "./Resource.md">Resource</a>
+    <a href = "https://arxiv.org/pdf/2402.03408.pdf">Arxiv</a> | <a href = "./Paperlist.md">PaperList</a> | <a href = "./README.md">Readme</a>   | <a href = "./Resource.md">Resource</a>
 </p>
 
 ***
