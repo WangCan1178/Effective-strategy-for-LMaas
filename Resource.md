@@ -8,9 +8,11 @@ We filtered the available model resources mentioned in A Survey on Effective Inv
 - January 24, 2023 list creation
 
   
+
 <p align="center">
-    <a href = "./Paperlist.md">PaperList</a> | <a href = "./arvix.md">Arxiv</a>  | <a href = "./README.md">Readme</a>   | <a href = "./Resource.md">Resource</a>
+    <a href = "https://arxiv.org/pdf/2402.03408.pdf">Arxiv</a> | <a href = "./Paperlist.md">PaperList</a> | <a href = "./README.md">Readme</a>   | <a href = "./Resource.md">Resource</a>
 </p>
+
 
 ***
 
