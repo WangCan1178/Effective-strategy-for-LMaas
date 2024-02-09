@@ -25,7 +25,7 @@ a multi-objective optimization problem. This entails simultaneous consideration 
 The contributions of this survey can be concluded as follows:
 - As shown in <a href = "./Paperlist.md">PaperList</a>, a taxonomy of effective invocation methods in LMaaS is proposed, which categorizes existing methods from four different aspects: input abstract, semantic cache, solution design and output enhancement.
 - As shown in Figure 2, the framework can unify the four type components, allowing each of them to work independently or simultaneously, during the life cycle of the LLM service invocation.
-- To facilities the methods of this task, the price rules of popular LMaaS products is present in Table.~\ref{price} and the paper list of existing works is available. \footnote{\url{https://github.com/W-caner/Effective-strategy-for-LMaas}}
+- To facilities the methods of this task, the price rules of popular LMaaS products is present in  <a href = "./Resource.md">Resource</a> and the paper list of existing works is available. 
 
 <br/>
 
