@@ -1,10 +1,22 @@
 # A Survey on Effective Invocation Methods of Massive LLM Services
 
+
+![demo](https://github.com/W-caner/Effective-strategy-for-LMaas/blob/main/res/demo.gif)
+
 <p align="center">
     <a href = "https://arxiv.org/pdf/2402.03408.pdf">Arxiv</a> | <a href = "./Paperlist.md">PaperList</a> | <a href = "./README.md">Readme</a>   | <a href = "./Resource.md">Resource</a>
 </p>
 
+
 ***
+
+
+
+Considering the heterogeneity in pricing does not necessarily correlate with the user experience, it is a great need to explore effective invocation methods for LLM services in practice. As shown in Figure 1, we expect to make use of massive LLM services to construct an effective invocation strategy according to different methods, meeting targets in different scenarios.
+To this end, we attempts to provide a comprehensive study of the development and recent advances
+on effective invocation methods in LMaaS. In detail, We first formalizes the task of constructing effective invocation strategy as 
+a multi-objective optimization problem. This entails simultaneous consideration of latency, performance, and cost factors. Then, we propose a taxonomy to provide a unified view on effective invocation methods in LMaaS where the existing methods are categorized into: input abstract, semantic cache, solution design, and output enhancement. These four components can be flexibly combined and unified in a flexible framework. Finally, we highlight the challenges and potential directions and hope our work can provide a useful roadmap for beginners interested in this area and shed light on future research.
+
 
 <div align="center">
   <img src="./res/visions.png" alt="Vision" width="80%" height="80%">
@@ -17,10 +29,6 @@ Figure 1: Vision of efficient invocation strategy construction for massive LLM s
 
 <br/>
 
-Considering the heterogeneity in pricing does not necessarily correlate with the user experience, it is a great need to explore effective invocation methods for LLM services in practice. As shown in Figure 1, we expect to make use of massive LLM services to construct an effective invocation strategy according to different methods, meeting targets in different scenarios.
-To this end, we attempts to provide a comprehensive study of the development and recent advances
-on effective invocation methods in LMaaS. In detail, We first formalizes the task of constructing effective invocation strategy as 
-a multi-objective optimization problem. This entails simultaneous consideration of latency, performance, and cost factors. Then, we propose a taxonomy to provide a unified view on effective invocation methods in LMaaS where the existing methods are categorized into: input abstract, semantic cache, solution design, and output enhancement. These four components can be flexibly combined and unified in a flexible framework. Finally, we highlight the challenges and potential directions and hope our work can provide a useful roadmap for beginners interested in this area and shed light on future research.
 
 The contributions of this survey can be concluded as follows:
 - As shown in <a href = "./Paperlist.md">PaperList</a>, a taxonomy of effective invocation methods in LMaaS is proposed, which categorizes existing methods from four different aspects: input abstract, semantic cache, solution design and output enhancement.
