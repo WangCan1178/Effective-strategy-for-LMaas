@@ -72,7 +72,7 @@ Then we formalize the problem of effective LLM services strategy construction, a
 
 Existing methods tend to focus on only one component of the framework, and we can use them as plugins. A case is shown in Figure 3, a simple invocation strategy constructed from three existing methods. The development prospects of this field are promising. We look forward to future research further advancing the field, providing users with low-latency, high-performance, and cost-effective LLM services solution, and promoting the healthy development of the LMaaS ecosystem.
 
-<br/>
+
 ***
 
 # Platform for LLM services Effective Invocation Framework
