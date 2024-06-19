@@ -1,8 +1,6 @@
 # A Survey on Effective Invocation Methods of Massive LLM Services
 
 
-![demo](https://github.com/W-caner/Effective-strategy-for-LMaas/blob/main/res/demo.gif)
-
 <p align="center">
     <a href = "https://arxiv.org/pdf/2402.03408.pdf">Arxiv</a> | <a href = "./Paperlist.md">PaperList</a> | <a href = "./README.md">Readme</a>   | <a href = "./Resource.md">Resource</a>
 </p>
@@ -73,3 +71,8 @@ Then we formalize the problem of effective LLM services strategy construction, a
 <br/>
 
 Existing methods tend to focus on only one component of the framework, and we can use them as plugins. A case is shown in Figure 3, a simple invocation strategy constructed from three existing methods. The development prospects of this field are promising. We look forward to future research further advancing the field, providing users with low-latency, high-performance, and cost-effective LLM services solution, and promoting the healthy development of the LMaaS ecosystem.
+
+***
+
+![demo](https://github.com/W-caner/Effective-strategy-for-LMaas/blob/main/res/demo.gif)
+
