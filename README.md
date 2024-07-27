@@ -79,7 +79,8 @@ Existing methods tend to focus on only one component of the framework, and we ca
 
 ![demo](https://github.com/W-caner/Effective-strategy-for-LMaas/blob/main/res/demo.gif)
 
-The platform demonstrates the implementation of constructing an effective strategy for LMaas using Streamlit. Streamlit is an open-source app framework for Machine Learning and Data Science teams to create beautiful, performant apps quickly.
+The platform demonstrates the implementation of constructing an effective strategy for LMaas mentioned in the paper using Streamlit, allowing each component to combine flexibly to test different LLM invocation scenarios. Streamlit is an open-source app framework for Machine Learning and Data Science teams to create beautiful, performant apps quickly.
+
 
 To get started with this project, clone the repository and install the required dependencies.
 
