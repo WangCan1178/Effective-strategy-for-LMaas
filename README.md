@@ -93,7 +93,7 @@ pip install -r requirements.txt
 After installing the dependencies, you can run the Streamlit app locally using the following command:
 
 ```bash
-streamlit run app.py
+streamlit run Welcome.py
 ```
 
 This will start a local server, and you can view the app in your web browser at `http://localhost:8501`.
